@@ -1,5 +1,6 @@
 ### Hi there 👋
-I'm editing this file.
+I'm a computer information systems major at Buffalo State University.
+!My Skills cpp
 
 <!--
 **DulskiM/DulskiM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
